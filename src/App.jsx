@@ -15,6 +15,11 @@ function App() {
           py:'2rem'
         }}
       >Ya to Win ha, Ya to Learn ha</Typography>
+
+      {/* In MUI we use Box instead of Div */}
+      {/* for Box we use sx={{}} */}
+      {/* for Div we use style={{}} */}
+      
       <div style={{marginLeft:'2rem', marginRight:'2rem'}}>
         <h1>MUI Tutorial</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, quaerat!</p>
